@@ -27,4 +27,7 @@ Repository name为储存库名称，随意，可直接点下方的crete fork。
 ## 最后一步
 
 点击create pull requests，完成
+
 ~是不是很难~
+
+~~实在不行可以直接找魔骨上传~~
