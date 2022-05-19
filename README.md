@@ -20,7 +20,7 @@ Repository name为储存库名称，随意，可直接点下方的crete fork。
 
 ## 第三步
 
-回到本储存库（https://github.com/moguki/decksinfo/pulls）
+回到本储存库（ https://github.com/moguki/decksinfo/pulls ）
 点击上方的pull requests，然后点击new pull requests，接下来点击compare across forks（就是标题下面那一行字里面标蓝的那）
 之后点击head repository，在下面选择你自己的储存库
 
