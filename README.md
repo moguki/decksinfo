@@ -5,6 +5,10 @@
 # 下载方法
 点击***Code***，然后点击***Download Zip***
 
+或
+
+直接点击链接下载： https://codeload.github.com/moguki/decksinfo/zip/refs/heads/main 
+
 # 添加方法-pull requests
 
 ## 第一步
